@@ -1,0 +1,8 @@
+# ignore all logs
+Cours
+Ressources
+*.log
+*.bbl
+*.blg
+*.out
+*.aux
