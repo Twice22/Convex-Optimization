@@ -20,5 +20,6 @@ jupyter notebook CVX_OPT_HW3.ipynb
 
 ## Explanations
 The final report is named CVX_OPT_BUSA_Victor.pdf
+The latex version of the report is also available under the name: CVX_OPT_BUSA_Victor.tex
 
 __Note__: the 2 previous homeworks were purely theoretical and handwritten so I don't have them anymore.
